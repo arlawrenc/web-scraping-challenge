@@ -1,0 +1,16 @@
+.header {
+    font-weight: bold;
+    color: black;
+}
+
+img {
+    overflow: hidden;
+}
+
+#facts {
+    padding-top: 30px;
+}
+
+#weather {
+    padding-top: 30px;
+}
